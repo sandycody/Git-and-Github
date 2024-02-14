@@ -1,5 +1,10 @@
 1. git init (check default branch is main or master)
 
+If it is master by default, then we can that initDeafultBranch to main using:
+
+git config --global init.defaultBranch main
+
+
 2. git status
 
 3. git add
